@@ -9,7 +9,8 @@ let quotes=[
     "Happiness is the only thing that multiplies when you share it.",
     "The happiness of your life depends upon the quality of your thoughts.",
     "The way I see it, if you want the rainbow, you gotta put up with the rain.",
-    "Be yourself; everyone else is already taken."
+    "Be yourself; everyone else is already taken.",
+    "The most important thing is to enjoy your life—to be happy—it's all that matters"
 ]
 btn.addEventListener('click',() =>{
 // for(let i=1;i<=quotes.length;i++){
