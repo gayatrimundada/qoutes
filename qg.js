@@ -8,7 +8,8 @@ let quotes=[
     "Positive anything is better than negative nothing.",
     "Happiness is the only thing that multiplies when you share it.",
     "The happiness of your life depends upon the quality of your thoughts.",
-    "The way I see it, if you want the rainbow, you gotta put up with the rain."
+    "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+    "Be yourself; everyone else is already taken."
 ]
 btn.addEventListener('click',() =>{
 // for(let i=1;i<=quotes.length;i++){
